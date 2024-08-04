@@ -1,0 +1,20 @@
+{
+  "name": "chai_backend",
+  "version": "1.0.0",
+  "description": "learning backend in 2024",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index start"
+  },
+  "keywords": [
+    "chai",
+    "backend",
+    "2024"
+  ],
+  "author": "Nikhil Anand",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
